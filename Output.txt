@@ -1,0 +1,6 @@
+Q1: 3
+(x1, x2) -> OR perceptron -> ORresult
+(x1, x2) -> NAND perceptron -> NANDresult
+(ORresult, NANDresult) -> AND perceptron -> final result
+
+Q2: 10
